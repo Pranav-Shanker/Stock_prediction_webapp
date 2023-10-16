@@ -9,8 +9,8 @@ This program leverages the capabilities of libraries such as fbprophet for time 
 ![image](https://github.com/Pranav-Shanker/Stock_prediction_webapp/assets/148027466/24d01c64-07f3-48b2-9d55-30fe02a2dcfe)
 
 # Steps to use this code
-1)Clone github
-2)Download dependencies and modules using npm
-3)Sign up for streamlit if you haven't if you have run the code with: streamlit run "Stock prediction web app.py"
+Clone github
+Download dependencies and modules using npm
+Sign up for streamlit if you haven't if you have run the code with: streamlit run "Stock prediction web app.py"
 
 
